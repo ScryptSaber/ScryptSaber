@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning SDET
 - 💞️ I’m looking to collaborate on automation.
-- 📫 How to reach me ...
+- 📫 How to reach me aerdemkamis@gmail.com
 
 <!---
 ScryptSaber/ScryptSaber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
