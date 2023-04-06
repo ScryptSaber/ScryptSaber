@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on automation.
 - 📫 How to reach me aerdemkamis@gmail.com
 
-![image](https://github.com/insolitum/insolitum/raw/main/contributions.svg)
+
 
 
 
