@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScryptSaber
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning SDET
+- 👀 I’m interested in Programming and Testing.
+
 - 💞️ I’m looking to collaborate on automation.
 - 📫 How to reach me aerdemkamis@gmail.com
 
