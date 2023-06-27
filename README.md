@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Testing.
 
 - 💞️ I’m looking to collaborate on automation.
-- 📫 How to reach me aerdemkamis@gmail.com
+- 📫 How to reach me erdem.kamis@theyr.com
 
 
 
